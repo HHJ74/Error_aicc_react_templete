@@ -1,13 +1,12 @@
 <h1 align="center">
-<a href= #>제목
+<a href= #>Templete
 </a>
 <h1/>
 
 <div align="center">
-  Amazing GitHub Template - Sane defaults for your next project!
   <br />
   <br />
-  <a href="#">Report a Bug</a>
+  <a href="#">Practice making templete </a>
   ·
   <a href="#">Request a Feature</a>
   .
