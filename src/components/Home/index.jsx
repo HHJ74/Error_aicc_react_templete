@@ -1,9 +1,16 @@
-import React from 'react'
+import React from 'react';
+import HeroSection from './HeroSection' ;
+import FeaturesSection from './FeaturesSection';
 
-const Index = () => {
+const index = () => {
   return (
-    <div>Main Home Page</div>
+    <div>
+      <div className="container">
+        <HeroSection/>
+        <FeaturesSection/>
+      </div>
+    </div>
   )
 }
 
-export default Index;
+export default index;
