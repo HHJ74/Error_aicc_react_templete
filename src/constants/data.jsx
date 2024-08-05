@@ -129,6 +129,7 @@ export const checklistItems = [
   },
 ];
 
+
 export const pricingOptions = [
   {
     title: 'Free',
@@ -139,6 +140,7 @@ export const pricingOptions = [
       'Web Analytics',
       'Private Mode',
     ],
+    link: 'free',
   },
   {
     title: 'Pro',
@@ -149,6 +151,7 @@ export const pricingOptions = [
       'Web Analytics (Advance)',
       'Private Mode',
     ],
+    link: 'Pro',
   },
   {
     title: 'Enterprise',
@@ -159,8 +162,12 @@ export const pricingOptions = [
       'High Performance Network',
       'Private Mode',
     ],
+    link: 'enterprise',
   },
 ];
+
+
+
 
 export const resourcesLinks = [
   { to: '/Getting-Started', text: 'Getting Started' },
@@ -190,3 +197,4 @@ export const heroLinks = [
   { to: 'start-for-free', text: 'start for free' },
   { to: 'documentation', text: 'documentation' },
 ];
+

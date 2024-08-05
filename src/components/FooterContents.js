@@ -1,6 +1,5 @@
 import React from 'react'
 import { Link } from 'react-router-dom';
-import { linkData } from './Footer';
 
 const FooterContents = ({title, linkData}) => {
   console.log(title, linkData);
